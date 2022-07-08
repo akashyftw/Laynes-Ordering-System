@@ -1,2 +1,2 @@
-# CSCE_315_Project_2
-Making a database for Layne's
+# Laynes Ordering System
+Making a database for Layne's workers
