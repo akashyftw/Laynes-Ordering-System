@@ -1,0 +1,53 @@
+﻿SKU,Description,Location,Serving,Price,Weight,ExpirationDate,Quantity
+c1001,chickenbreast,freezer,0,78,6720,3/18/22,21
+d2001,flour,pantry,0,19.5,4000,3/18/22,5
+d2002,salt,pantry,0,25.95,800,3/18/22,1
+d2003,blackpepper,pantry,0,30,160,3/18/22,2
+f3002,fries,freezer,0,30.9,14400,3/18/22,30
+d2004,thickbread,fridge,0,37.99,2295,3/18/22,9
+c1002,potatosalad,freezer,0,17.01,800,3/18/22,10
+c1003,liquidmargarine,fridge,0,57.81,64,3/18/22,4
+d2005,garlicpowder,pantry,0,20.49,160,3/18/22,2
+c1004,ranch,fridge,0,39.98,1601.28,3/18/22,12
+d2006,ketchuplgcontainer,fridge,0,29.99,2054.4,3/18/22,3
+d2007,ketchuppackets,fridge,0,25.49,950.4,3/18/22,3
+d2008,mayo,fridge,0,89.99,3202.56,3/18/22,6
+d2009,teabags,pantry,0,29.49,184.32,3/18/22,4
+d2010,sugarfortea,pantry,0,21.99,1600,3/18/22,4
+d2011,worcestershiresauce,fridge,0,47.49,533.76,3/18/22,1
+c1005,slicedcheese,fridge,0,88.38,480,3/18/22,1
+c1006,baconslices,freezer,0,57.44,49.6,3/18/22,1
+d2012,fryeroil,pantry,0,45.68,3360,3/18/22,6
+d2013,jonesdrjones ,fridge,1,55.99,800.64,3/18/22,2
+d2014,jonesorangecream,fridge,1,55.99,800.64,3/18/22,2
+d2015,jonesrootbeer,fridge,1,55.99,800.64,3/18/22,2
+d2016,jonescola,fridge,1,55.99,800.64,3/18/22,2
+d2017,joneslemonlime,fridge,1,55.99,800.64,3/18/22,2
+d2018,jonessugarfree cola,fridge,1,55.99,800.64,3/18/22,2
+d2019,bottledrootbeer,fridge,1,39.99,2304,3/18/22,4
+d2020,bottledcreamsoda,fridge,1,39.99,2304,3/18/22,4
+d2021,bottledorangecream,fridge,1,39.99,2304,3/18/22,4
+d2022,bottledberrylemonade,fridge,1,39.99,2304,3/18/22,4
+d2023,straw,pantry,0,19.99,270,3/18/28,3
+d2024,drink lid,pantry,0,29.99,256,3/18/28,2
+d2025,10oz cup,pantry,0,55.99,384,3/18/28,1
+d2026,16 oz cup,pantry,0,68.49,992,3/18/28,2
+d2027,napkin,pantry,0,36.49,408,3/18/28,1
+d2028,cutlery pack,pantry,0,34.49,704,3/18/28,4
+d2029,basket liners,pantry,0,82.49,48,3/18/28,1
+d2030,2oz clear cup,pantry,0,40.99,208,3/18/28,1
+d2031,2oz lid,pantry,0,47.99,168,3/18/28,1
+d2032,5.5 oz clear cup,pantry,0,88.49,432,3/18/28,1
+d2033,5.5 oz lid,pantry,0,48.49,192,3/18/28,1
+d2034,hinged lid box sm,pantry,0,67.97,1344,3/18/28,3
+d2035,hinged lid box lg,pantry,0,56.62,1680,3/18/28,5
+d2037,hand soap,pantry,0,56.7,384,3/18/28,3
+d2038,hand sanitizer,pantry,0,88.88,256,3/18/28,2
+d2039,dish soap,pantry,0,27.99,64,3/18/28,1
+d2040,paper towels,pantry,0,23.99,768,3/18/28,2
+d2041,gloves,pantry,0,7.99,576,3/18/28,4
+d2042,trash can liners-small,pantry,0,29.49,176,3/18/28,1
+d2043,trash can liners-lg,pantry,0,28.99,224,3/18/28,1
+d2044,toilet paper,pantry,0,72.99,480,3/18/28,1
+d2045,surface cleaner,pantry,0,52.49,768,3/18/28,1
+d2046,floor cleaner,pantry,0,23.49,96,3/18/28,2

@@ -1,0 +1,64 @@
+Description,SKU,delivered by,in pounds,In ounces,isMenuItem
+Chicken breast,c1001,case,20,320,0
+flour,d2001,bag,50,800,0
+salt,d2002,bag,50,800,0
+black pepper,d2003,container,5,80,0
+Fries,f3002,case,30,480,0
+Thick bread,d2004,case,15.9375,255,0
+Potato Salad,c1002,each,5,80,0
+Liquid margarine,c1003,case,1,16,0
+Garlic powder,d2005,each,5,80,0
+Ranch,c1004,each,8.34,133.44,0
+Ketchup-Lg container,d2006,case,42.8,684.8,0
+Ketchup-packets,d2007,case,19.8,316.8,0
+Mayo,d2008,case,33.36,533.76,0
+Tea bags,d2009,case,2.88,46.08,0
+Sugar for tea,d2010,bag,25,400,0
+Worcestershire Sauce,d2011,case,33.36,533.76,0
+Sliced cheese,c1005,case,30,480,0
+Bacon slices,c1006,case,3.1,49.6,0
+Fryer oil,d2012,bucket,35,560,0
+Jones-Dr Jones ,d2013,bag in box,25.02,400.32,0
+Jones-Orange&Cream,d2014,bag in box,25.02,400.32,0
+Jones-Root beer,d2015,bag in box,25.02,400.32,0
+Jones-Cola,d2016,bag in box,25.02,400.32,0
+Jones-Lemon Lime,d2017,bag in box,25.02,400.32,0
+Jones-Sugar Free Cola,d2018,bag in box,25.02,400.32,0
+Bottled Root Beer,d2019,case,36,576,0
+Bottled Cream Soda,d2020,case,36,576,0
+Bottled Orange & Cream,d2021,case,36,576,0
+Bottled Berry Lemonade,d2022,case,36,576,0
+Straw,d2023,Pack,5,90,0
+Drink lid,d2024,case,8,128,0
+10oz Cup,d2025,case,24,384,0
+16 oz Cup,d2026,case,31,496,0
+Napkin,d2027,case,25.5,408,0
+Cutlery pack,d2028,case,11,176,0
+Basket liners,d2029,case,3,48,0
+2oz clear cup,d2030,case,13,208,0
+2oz lid,d2031,case,10.5,168,0
+5.5 oz clear cup,d2032,case,27,432,0
+5.5 oz lid,d2033,pack,12,192,0
+Hinged lid box sm,d2034,case,28,448,0
+Hinged lid box lg,d2035,case,21,336,0
+Hand soap,d2037,case,8,128,0
+Hand sanitizer,d2038,case,8,128,0
+Dish soap,d2039,case,4,64,0
+Paper towels,d2040,case,24,384,0
+gloves,d2041,case,9,144,0
+trash can liners-small,d2042,case,11,176,0
+trash can liners-lg,d2043,case,14,224,0
+toilet paper,d2044,case,30,480,0
+Surface cleaner,d2045,case,48,768,0
+Floor cleaner,d2046,tub,3,48,0
+chicken finger,e1001,finger,0.2125,3.4,1
+texas toast,e1002,slice,0.125,2,1
+fries,e1003,fry,0.3125,5,1
+iced tea,e1004,cup,0.375,6,1
+club sandwich,e1005,sandwich,0.21875,3.5,1
+sandwich,e1006,sandwich,0.45,7.2,1
+grill cheese,e1007,sandwich,0.26875,4.3,1
+fountain drink,e1008,cup,0.5,8,1
+bottle drink,e1009,bottle,0.75,12,1
+potato salad,e1010,bowl,0.625,10,1
+sauce,e1011,cup,0.2125,3.4,1
